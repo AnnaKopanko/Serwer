@@ -1,1 +1,2 @@
-# Projekt-C-server
+# Projekt PJC2
+# Serwer
