@@ -3,13 +3,19 @@
 ################################################################################
 
 # Add inputs and outputs from these tool invocations to the build variables 
+O_SRCS += \
+../dlib.o 
+
 C_SRCS += \
+../dlib.c \
 ../main.c 
 
 OBJS += \
+./dlib.o \
 ./main.o 
 
 C_DEPS += \
+./dlib.d \
 ./main.d 
 
 
