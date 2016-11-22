@@ -1,2 +1,1 @@
-# Projekt PJC2
-# Serwer
+# Projekt PJC2 - SERWER
